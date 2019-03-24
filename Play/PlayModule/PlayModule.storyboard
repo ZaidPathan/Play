@@ -10,7 +10,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Play View Controller-->
+        <!--Play-->
         <scene sceneID="ANs-wN-sRu">
             <objects>
                 <viewController storyboardIdentifier="PlayViewController" id="9tL-qS-cNb" customClass="PlayViewController" sceneMemberID="viewController">
@@ -32,6 +32,8 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="Mu6-hp-Pe8"/>
                     </view>
+                    <tabBarItem key="tabBarItem" title="Play" id="6pV-Of-qyk"/>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ibY-15-7jy" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
