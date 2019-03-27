@@ -1,2 +1,2 @@
 # Play
-A play module of PayZaid main app.
+A play module of [TheAwesomeApp](https://link.medium.com/edjqlnY5oV).
